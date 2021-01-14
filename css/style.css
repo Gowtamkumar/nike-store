@@ -1,0 +1,67 @@
+
+.all-section{
+    margin-top: 80px;
+}
+header{
+    background-color: #FFF9F4;
+    padding-bottom: 100px;
+}
+.nick-opportunite {
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+.nick-opportunite-img img{
+    width: 90px;
+   
+    
+    
+}
+.product-img{
+    background-color: #f2f2f2;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.nick-opportunite-img-inner{
+    width: 120px;
+    margin-left: 23px;
+}
+.button{
+    border-radius: 10px;
+    background-color: #ff7d51;
+    color: white;
+}
+.logo img{
+width: 300px;
+}
+.banner img{
+    width: 500px;
+}
+.banner-headding{
+    font-size: 55px;
+    font-family: 'Merriweather', serif;
+}
+.nike-shoes-product{
+    border: none;
+    border-radius: 10px;
+}
+.nike-shoes-product-footer{
+    border: none;
+    background-color: white;
+    border-radius: 10px!important;
+    margin-bottom: 10px;
+}
+.nicke-shoes-product-footer-headding{
+    color:#ff7d51;
+    font-weight:bold;
+    line-height: 52px;
+    font-size: 30px;
+}
+.barand-color{
+    color:#ff7d51;
+}
+#subscribe{
+    background-color: #ff7d51!important;
+    color: white;
+    border-radius: 10px;
+}
